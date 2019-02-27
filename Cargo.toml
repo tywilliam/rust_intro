@@ -1,0 +1,7 @@
+[package]
+name = "rustCrash"
+version = "0.1.0"
+authors = ["tyresewilliams"]
+edition = "2018"
+
+[dependencies]
